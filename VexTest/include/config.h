@@ -1,6 +1,4 @@
 #pragma once
 #include "api.h"
 
-using namespace pros;
-
-Motor motor12();
+pros::Motor motor1 ();

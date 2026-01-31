@@ -1,7 +1,7 @@
 {
   "py/object": "pros.conductor.project.Project",
   "py/state": {
-    "project_name": "VexTest",
+    "project_name": "ProsV5Example+Test",
     "target": "v5",
     "templates": {
       "kernel": {
@@ -592,7 +592,10 @@
       }
     },
     "upload_options": {
-      "icon": "X"
+      "icon": "pros",
+      "description": "Please note that this program is not intended to be ran.",
+      "slot": 1,
+      "after": "none"
     },
     "use_early_access": false
   }
